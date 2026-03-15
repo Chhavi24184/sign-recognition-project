@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Project Specific
+data/
+sign project/sign project/Data/model/
+*.h5
+*.txt
+temp_zip_content/
+sign project.zip
+
+# IDEs
+.vscode/
+.idea/
